@@ -10,8 +10,6 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=six-ju&show_icons=true&theme=radical)
  <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitjae&show_icons=true&theme=radical)
-
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=six-ju)](https://solved.ac/six-ju)
  <br/>
   
