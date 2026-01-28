@@ -2,7 +2,6 @@
 
 ## 📫 Contact
 
-- 📧 Naver: yuk1479@naver.com
-- 📧 Google: dbrwnsgh0410@gmail.com
+📧 [yuk1479@naver.com](mailto:yuk1479@naver.com) &nbsp;
 
-
+📧 [dbrwnsgh0410@gmail.com](mailto:dbrwnsgh0410@gmail.com) &nbsp;
